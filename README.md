@@ -1,5 +1,5 @@
 # RPG
-Project for Swift course at FMI
-Реализирани са:
-Модул за генериране на карта
+Project for Swift course at FMI<br>
+Реализирани са:<br>
+Модул за генериране на карта<br>
 Модул за движение по картата и визуализация
